@@ -1,6 +1,6 @@
 # Pagekit 下载管理
 
-Bixie。org为Pagekit开发的一款下载管理扩展，方便管理你网站的下载包。
+Bixie.org 为 Pagekit 开发的一款下载管理扩展，方便展示及管理你网站的下载包。
 
 演示: [http://download.bixie.org](http://download.bixie.org).
 
@@ -8,7 +8,7 @@ Bixie。org为Pagekit开发的一款下载管理扩展，方便管理你网站�
 
 通过Pagekit内置的应用市场安装
 
-![image](http://download.bixie.org/storage/marketplace_download.jpg)
+![图片](http://download.bixie.org/storage/marketplace_download.jpg)
 
 扩展及其依赖附件将自动安装
 
